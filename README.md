@@ -1,10 +1,8 @@
 # Hotel-Management
-Python hotel management application with MySQL database includes 5 pages: Customer, Booking, Rooms, Service and Billing. It allows staff to efficiently manage guest details, reservations, room allocation, additional services and billing.
+ Python hotel management application with MySQL database includes 5 pages: Customer, Booking, Rooms, Service and Billing. It allows staff to efficiently manage guest 
+ details, reservations, room allocation, additional services and billing.
 
 # Main 
- This code is an implementation of a hotel management system using Tkinter, a Python library for creating GUIs. Here is a description of what each part of the code 
- does:
-
  1. Import the necessary modules:
     - `from tkinter import *`: Imports all Tkinter classes and functions for creating GUIs.
     - `from PIL import Image, ImageTk`: Imports the necessary classes from the Pillow library to manipulate images.
